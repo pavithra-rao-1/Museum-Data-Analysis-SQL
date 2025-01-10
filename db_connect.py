@@ -3,7 +3,7 @@ import pandas as pd
 import pyodbc
 
 # Configuration details
-server = 'LENOVO'  # Replace with your server name
+server = 'server_name'  # Replace with your server name
 database = 'paintings'  # Replace with your database name
 csv_folder_path = r'file_folder'  # Use raw string to avoid escape issues
 
