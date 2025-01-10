@@ -1,7 +1,7 @@
-# 🖼️ Painting Management Database System
+# 🖼️ Painting Management Data Analysis
 
 ## Project Overview 📚
-This project is a database management system for managing information related to paintings, artists, museums, canvas sizes, and related details. It leverages MS SQL Server and Python for efficient data processing and analysis.
+This project is a data analysis for analysing information related to paintings, artists, museums, canvas sizes, and related details. It leverages MS SQL Server and Python for efficient data processing and analysis.
 
 DATASET : https://www.kaggle.com/datasets/mexwell/famous-paintings
 
