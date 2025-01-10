@@ -5,7 +5,7 @@ import pyodbc
 # Configuration details
 server = 'LENOVO'  # Replace with your server name
 database = 'paintings'  # Replace with your database name
-csv_folder_path = r'C:\Pavi Kutty\paintings'  # Use raw string to avoid escape issues
+csv_folder_path = r'file_folder'  # Use raw string to avoid escape issues
 
 # Establish connection to MS SQL Server
 try:
